@@ -1,0 +1,5 @@
+![Cherish](https://github.com/CherishOS/android_manifest/blob/uqpr2/assets/cherish.png)
+# <b> <i> CherishOS | Built with </i>💖
+
+## Submit new issue ##
+In order to submit new issue, [click me](https://github.com/CherishOS/issue_tracker/issues/new/choose)
